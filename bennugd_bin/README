@@ -1,6 +1,0 @@
-This is BennuGD compiled for OSX (Intel).
-Source can be downloaded from the BennuGD main page.
-
-To be able to use this program, be sure to include the "bin"
-folder to your path and the "lib" folder to your
-DYLD_LIBRARY_PATH.
