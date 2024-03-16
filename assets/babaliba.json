@@ -1,0 +1,17 @@
+{
+    "title": "Babaliba",
+    "background": "background.png",
+    "icon": "Babaliba.app/Contents/Resources/Babaliba.icns",
+    "icon-size": 80,
+    "contents": [
+        { "x": 10, "y": 160, "type": "file", "path": "Babaliba.app" },
+        { "x": 224, "y": 160, "type": "link", "path": "/Applications" },
+        { "x": 10, "y": 280, "type": "file", "path": "README.rtfd" }
+    ],
+    "window": {
+        "size": {
+            "width": 400,
+            "height": 400
+        }
+    }
+}
